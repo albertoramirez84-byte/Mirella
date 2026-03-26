@@ -1,2 +1,0 @@
-# Mirella
-Web visibility
