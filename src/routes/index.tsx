@@ -200,7 +200,7 @@ function HeroSection() {
                 <div className="space-y-4">
                   {[
                     { label: 'Consulta inicial gratuita', detail: 'Evaluamos tus necesidades' },
-                    { label: 'Enfermeras certificadas', detail: 'Validación de credenciales' },
+                    { label: 'Enfermeras acreditadas', detail: 'Validación de credenciales' },
                     { label: 'Disponibilidad flexible', detail: 'Horarios adaptados' },
                     { label: 'Cobertura en El Salvador', detail: 'Servicio a nivel nacional' },
                   ].map(item => (
@@ -282,7 +282,7 @@ function StorySection() {
           <div className="inline-block px-3 py-1 rounded-full text-sm font-medium mb-6" style={{ background: 'rgba(31,78,121,0.1)', color: '#1F4E79' }}>Nuestra Historia</div>
           <h2 className="text-3xl sm:text-4xl font-black mb-6" style={{ fontFamily: 'Montserrat, sans-serif', color: '#1F4E79' }}>Nació de la vocación</h2>
           <p className="text-gray-600 leading-relaxed mb-4">
-            Mirella Care nació de la mano de una enfermera con 15 años de experiencia que entendió que las familias salvadoreñas necesitan un puente confiable hacia el cuidado profesional.
+            Mirella Care nació de la mano de una enfermera con 40 años de experiencia que entendió que las familias salvadoreñas necesitan un puente confiable hacia el cuidado profesional.
           </p>
           <p className="text-gray-600 leading-relaxed">
             Hoy conectamos corazones y profesionalismo para que tus seres queridos estén bien en el lugar que más importa: su hogar.
